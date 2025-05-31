@@ -19,7 +19,7 @@ def test_01():
                 # "mlflow run https://github.com/jdvelasq/mlflow-wine-quality.git -e knn -P n_neighbors=5"
                 "mlflow",
                 "run",
-                "https://github.com/jdvelasq/mlflow-wine-quality.git",
+                "https://github.com/jcastrillonmo/mlflow-wine-quality.git",
                 "-e",
                 "knn",
                 "-P",
